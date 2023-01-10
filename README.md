@@ -1,1 +1,1 @@
-# Git-Demo
+# Git-Demo fot git commands demostration
